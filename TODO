@@ -1,0 +1,8 @@
+* Add program - wide inventory system
+* Add levels (experience, stats, etc)
+* Add equitable items (armor, weapons)
+    - Add item stats (dmg, speed)
+* Randomize cave more (fix bug where if you go in a direction twice, you get stuck in loop)
+* Add item drops
+* Implement money system in the shops
+* Implement potion system
